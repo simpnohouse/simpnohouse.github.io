@@ -17,7 +17,7 @@ function random(min, max) {
 /**
  * 生成标语
  * @param {string} title
- */
+//  */
 function generateBanner(title) {
   let sumH = 0;
   const lineTop = document.querySelector(".vertical-line-top");
@@ -31,6 +31,7 @@ function generateBanner(title) {
     let rn = random(1.5, 3.5);
     charBox.innerHTML = "<span class='char'>" + char + "</span>";
     let charSize = rn + "rem";
+
 
     charBox.classList.add("char-box");
     charContainer.appendChild(charBox);
@@ -59,7 +60,7 @@ function generateBanner(title) {
   lineTop.style.animationName = "extend-line";
   lineBottom.style.animationName = "extend-line";
 }
-
+//
 /**
  * 初始化 banner
  */
