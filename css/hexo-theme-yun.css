@@ -247,8 +247,7 @@ input {
   cursor: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur"), auto;
 }
 :root {
-  --banner-line-color: #000;
-  --banner-char-color: #000;
+  --banner-char-color: #0077fe;
 }
 #banner {
   position: relative;
@@ -265,7 +264,6 @@ input {
 .vertical-line-top,
 .vertical-line-bottom {
   display: flex;
-  background-color: var(--banner-line-color);
   width: 1px;
   height: 0;
   animation-duration: 0.4s;
@@ -278,16 +276,16 @@ input {
 }
 .char {
   font-family: 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
-  font-size: 1rem;
+  font-size: var(--banner-char-size, 1rem);
   font-weight: 900;
-  background-color: rgba(255,255,255,0.5);
+  background-color: rgba(0,187,254,0.5);
   line-height: 1;
   transition-property: all;
   transition-duration: 0.3s;
   transition-delay: 0s;
 }
 .char:hover {
-  color: #fff;
+  color: #00bbfe;
   background-color: var(--banner-char-color);
 }
 .char-left,
