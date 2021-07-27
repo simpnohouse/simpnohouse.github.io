@@ -247,6 +247,7 @@ input {
   cursor: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur"), auto;
 }
 :root {
+  --banner-line-color: #000;
   --banner-char-color: #0077fe;
 }
 #banner {
@@ -264,6 +265,7 @@ input {
 .vertical-line-top,
 .vertical-line-bottom {
   display: flex;
+  background-color: var(--banner-line-color);
   width: 1px;
   height: 0;
   animation-duration: 0.4s;
