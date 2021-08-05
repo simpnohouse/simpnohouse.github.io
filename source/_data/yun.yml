@@ -1,4 +1,99 @@
+#头像
 avatar:
-  url: /images/avatar.jpg # 你的头像图片地址
+  enable: true
+  url: /images/avatar.png
   rounded: true
   opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: 😀
+    message: 😀
+
+#光标
+cursor:
+  enable: true
+  default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
+  pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
+  text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
+
+
+
+
+
+
+#图标
+#cdn:
+ #pre: https://cdn.jsdelivr.net/gh/simpnohouse/myblog.github.io@latest
+bg_image:
+  enable: true
+  url: /images/pp1.jfif
+  # dark:
+  # blur: 30px # 设置背景模糊程度
+  opacity: 0.8
+# 关闭 highlight
+highlight:
+  enable: false
+# 启用 prism
+prismjs:
+  enable: true
+  preprocess: true
+  line_number: false
+  tab_replace: ""
+codeblock:
+  copy_btn: true
+  prismjs:
+    light: default
+    dark: tomorrow
+
+pages:
+  - name: 我的小伙伴们
+    url: /links/
+    icon: icon-genderless-line
+    color: dodgerblue
+
+comment:
+  enable: true
+  tips:
+    - 有任何想法或者问题都可以在下面评论，评论时填上email可以得到回复提醒哦。
+    - 如果希望得到更快回复，请直接发送邮箱至1007862915@qq.com||songyilee233@gmail.com
+valine:
+  enable: true
+  appId: KegFoTjQAIIY3K85MSNUWd4e-MdYXbMMI
+  appKey: 7UPqenPFWSMkuNeRvmxoU1l2
+  placeholder: "在这里留下你想说的话吧。" # comment box placeholder
+  avatar: retro
+  meta:
+    - nick
+    - mail
+  pageSize: 10 # pagination size
+  # lang: zh-CN
+  # visitor: false
+  # highlight: true
+  # recordIP: false
+  # serverURLs:
+  # Emoji See: https://valine.js.org/emoji.html
+  # emojiCDN: //i0.hdslb.com/bfs/emote/
+  # emojiMaps:
+  #   tv_doge: 6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png
+  #   more...
+  # enableQQ: false
+  # requiredFields:
+  #   - nick
+  #   - mail
+# Show Views / Visitors of the website / page with busuanzi.
+# Get more information on http://ibruce.info/2015/04/04/busuanzi
+google_analytics:
+  enable: true
+  id: G-HZ4C819TZN
+baidu_push: true
+wordcloud:
+  enable: true
+  height: 3500
+cdn:
+  pre: https://cdn.jsdelivr.net/gh/simpnohouse/myblog.github.io@latest
+
+footer:
+  beian:
+    enable: true
+    icp: 湘ICP备2021012493号
