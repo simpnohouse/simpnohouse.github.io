@@ -4,7 +4,7 @@
 
 # Site
 title: Lsy的小站   #标题
-subtitle: '要永远热爱生活'
+subtitle: ''
 description: 因为有很想要去完成的事情，所以今天也要好好加油     #简介或者格言
 keywords: keyword测试
 author: Lsy  #作者
@@ -43,18 +43,16 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+
+# 关闭 highlight
 highlight:
-  enable: true
-  line_number: true
-  auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: false
-prismjs:
   enable: false
+# 启用 prism
+prismjs:
+  enable: true
   preprocess: true
-  line_number: true
-  tab_replace: ''
+  line_number: false
+  tab_replace: ""
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -103,6 +101,6 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/simpnohouse/myblog.github.io.git  #你的仓库地址
+  repository: git@github.com:simpnohouse/simpnohouse.github.io.git  #你的仓库地址
   branch: master
   message: Update Hexo Static Content # 你可以自定义此次部署更新的说明

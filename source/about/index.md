@@ -11,7 +11,7 @@ icon: icon-cloud-line
 
 <div class="text-center">
   <div class="site-author-avatar">
-    <img src=/images/avatar.png alt="portrait" title="ID : lsy">
+    <img src="https://lsy66.cn/images/avatar.png" alt="portrait" title="ID : lsy">
   </div>
 </div>
 
@@ -22,7 +22,7 @@ icon: icon-cloud-line
 >
 - 爱好：宅＆＆火锅＆＆看动漫和电影＆＆摸鱼
 - 喜欢：可爱滴纸片人~~👴就是二次元。~~＆＆　喝鸡汤(是一个比较容易丧的人，极度需要来自互联网的正能量)＆＆　一切开源的东西(开源，yyds!)＆＆　自由而不受约束(即“躺”着把钱挣了)
-![i am COSPA](/images/爷就是二次元.png)
+![i am COSPA](https://cdn.jsdelivr.net/gh/simpnohouse/blog_image/爷就是二次元.png)
 - 讨厌：坏人
 - 运动：🏀篮球。~~虽然打得很菜就是了。~~
 - 目标：(算法工程师｜｜游戏开发者｜｜全栈/架构工程师｜｜数据分析师)＆＆~~火锅店老板~~
@@ -55,7 +55,7 @@ icon: icon-cloud-line
 所以说，和java的~~孽~~缘就开始啦。
 工作了之后，因为没有硬性加班要求以及工作任务不是很重，我开始有了可以自己支配的时间，有时间静下心来好好想想自己想干嘛以及以后的打算。
 遂决定做一个自己的博客，来记录自己的想法和学习路程。
-![冲冲冲](/images/冲冲冲.png)
+![冲冲冲](https://cdn.jsdelivr.net/gh/simpnohouse/blog_image/冲冲冲.png)
 
 
 ## 想说的话

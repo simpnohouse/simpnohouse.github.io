@@ -1,7 +1,7 @@
 #头像
 avatar:
   enable: true
-  url: /images/avatar.png
+  url: https://cdn.jsdelivr.net/gh/simpnohouse/blog_image/avatar.png
   rounded: true
   opacity: 1
   mickey_mouse: false
@@ -27,7 +27,7 @@ cursor:
  #pre: https://cdn.jsdelivr.net/gh/simpnohouse/myblog.github.io@latest
 bg_image:
   enable: true
-  url: /images/pp1.jfif
+  url: https://cdn.jsdelivr.net/gh/simpnohouse/blog_image/pp1.png
   # dark:
   # blur: 30px # 设置背景模糊程度
   opacity: 0.8
@@ -78,7 +78,7 @@ valine:
   #   tv_doge: 6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png
   #   more...
   # enableQQ: false
-  # requiredFields:
+  # requiredFields:g
   #   - nick
   #   - mail
 # Show Views / Visitors of the website / page with busuanzi.
@@ -90,10 +90,18 @@ baidu_push: true
 wordcloud:
   enable: true
   height: 3500
-cdn:
-  pre: https://cdn.jsdelivr.net/gh/simpnohouse/myblog.github.io@latest
+#cdn:
+#  pre: https://cdn.jsdelivr.net/gh/simpnohouse/myblog.github.io@latest
 
 footer:
+  support:
+    enable: true
+    title: 又拍云
+    link: https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral
+    logo: https://cdn.jsdelivr.net/gh/simpnohouse/blog_image/又拍云_logo5.png
+    prefix: 本网站由
+    suffix: 提供 CDN 加速
+
   beian:
     enable: true
     icp: 湘ICP备2021012493号
