@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce30219c-6532-4df6-bcc2-1bdced52ae29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/yun.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/yun.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/测试.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/pp1.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-bamboo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yun" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yun" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yun/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yun/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yun/languages/default.yml" beforeDir="false" />
@@ -78,7 +69,7 @@
       <workItem from="1630034770160" duration="2411000" />
       <workItem from="1632897991895" duration="1065000" />
       <workItem from="1632900410010" duration="1557000" />
-      <workItem from="1633939509070" duration="17104000" />
+      <workItem from="1633939509070" duration="18890000" />
     </task>
     <servers />
   </component>
