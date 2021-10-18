@@ -87,9 +87,7 @@ google_analytics:
   enable: true
   id: G-HZ4C819TZN
 baidu_push: true
-wordcloud:
-  enable: true
-  height: 3500
+
 #cdn:
 #  pre: https://cdn.jsdelivr.net/gh/simpnohouse/myblog.github.io@latest
 
@@ -105,3 +103,6 @@ footer:
   beian:
     enable: true
     icp: 湘ICP备2021012493号
+
+wordcloud:
+  enable: false
