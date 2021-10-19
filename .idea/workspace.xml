@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce30219c-6532-4df6-bcc2-1bdced52ae29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/yun.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/yun.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/categories/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/tags/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yun" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yun" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yun/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yun/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yun/languages/default.yml" beforeDir="false" />
@@ -62,6 +58,7 @@
       <workItem from="1633939509070" duration="25507000" />
       <workItem from="1634171616044" duration="594000" />
       <workItem from="1634518814094" duration="4125000" />
+      <workItem from="1634603701005" duration="294000" />
     </task>
     <servers />
   </component>
