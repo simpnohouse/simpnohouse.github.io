@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ce30219c-6532-4df6-bcc2-1bdced52ae29" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yun" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yun" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yun/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yun/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yun/languages/default.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yun/languages/en.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yun/languages/ja.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yun/source/Yun.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yun/source/css/_layout/banner.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yun/source/css/_layout/banner.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yun/source/js/ui/banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yun/source/js/ui/banner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yun/source/yun.ico" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/yun" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wytd0pxRUBCXahxItLOZhvTfrS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../temp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,7 +50,8 @@
       <workItem from="1633939509070" duration="25507000" />
       <workItem from="1634171616044" duration="594000" />
       <workItem from="1634518814094" duration="4125000" />
-      <workItem from="1634603701005" duration="897000" />
+      <workItem from="1634603701005" duration="1492000" />
+      <workItem from="1635813988520" duration="20060000" />
     </task>
     <servers />
   </component>
